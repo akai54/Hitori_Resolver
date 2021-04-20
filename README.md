@@ -1,7 +1,7 @@
 # Hitori_Resolver
 
 This is a hitori puzzle resolver written in Prolog.  
-Actually a university assignement during the second semester.
+Actually it's a university assignement given during the second semester.
 
 If you don't know what hitori is check this : https://en.wikipedia.org/wiki/Hitori
 
